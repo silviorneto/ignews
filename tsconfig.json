@@ -19,7 +19,8 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "src/services/stripe-js.js"
+    "src/services/stripe-js.js",
+    "prismicio.js"
   ],
   "exclude": ["node_modules"]
 }
